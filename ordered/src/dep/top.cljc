@@ -1,27 +1,27 @@
 (ns dep.top
   (:require dep.a 
             dep.b 
+            dep.x 
+            dep.h 
+            dep.e 
+            dep.r 
+            dep.f 
+            dep.w 
+            dep.g 
+            dep.i 
             dep.c 
             dep.d 
-            dep.e 
-            dep.f 
-            dep.g 
-            dep.h 
-            dep.i 
             dep.j
+            dep.n 
             dep.k 
+            dep.t 
             dep.l
             dep.m 
-            dep.n 
             dep.o 
             dep.p 
             dep.q 
-            dep.r 
             dep.s 
-            dep.t 
             dep.u 
             dep.v 
-            dep.w 
-            dep.x 
             dep.y 
             dep.z))
