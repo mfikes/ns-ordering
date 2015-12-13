@@ -38,9 +38,7 @@ Nashorn:
 
 Planck (`brew install planck` if you don't already have it):
 
-```
-planck -c src
-```
+`planck -c src`
 
 ## Load
 
