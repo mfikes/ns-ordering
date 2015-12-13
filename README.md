@@ -24,24 +24,22 @@ Set up the REPL of your choice. Here are some examples.
 
 ### Clojure
 
+REPL-y:
+
 `lein repl`
 
 ### ClojureScript
 
-Set up Nashorn by starting `lein repl` and then these three forms.
+Nashorn:
 
-```clojure
-(require '[cljs.repl :as repl])
-(require '[cljs.repl.nashorn :as nashorn])
-(repl/repl (nashorn/repl-env) :repl-verbose true)
-```
+`lein run -m cljs.repl.nashorn`
 
 ### Bootstrapped ClojureScript
 
-Use Planck (`brew install planck` if you don't already have it).
+Planck (`brew install planck` if you don't already have it):
 
 ```
-planck -c src -v
+planck -c src
 ```
 
 ## Load
