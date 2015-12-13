@@ -48,6 +48,8 @@ Load the top level namespace.
 (require 'dep.top)
 ```
 
+Note that, in the `unordered` tree, the attempt above to load `dep.top` will fail in a ClojureScript REPL.
+
 If things work out, check that `dep.z/z` has the contents of `dep.a/a`.
 
 ```
