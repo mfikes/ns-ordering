@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 1.7.170
+{:name dep.z, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses nil, :requires {dep.y dep.y}, :imports nil, :defs {z {:name dep.z/z, :file "/Users/mfikes/Projects/ns-ordering/ordered/src/dep/z.cljc", :line 4, :column 1, :end-line 4, :end-column 7, :meta {:file "/Users/mfikes/Projects/ns-ordering/ordered/src/dep/z.cljc", :line 4, :column 6, :end-line 4, :end-column 7}}}}
