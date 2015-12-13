@@ -26,19 +26,19 @@ Set up the REPL of your choice. Here are some examples.
 
 REPL-y:
 
-`lein repl`
+`$ lein repl`
 
 ### ClojureScript
 
 Nashorn:
 
-`lein run -m cljs.repl.nashorn`
+`$ lein run -m cljs.repl.nashorn`
 
 ### Bootstrapped ClojureScript
 
 Planck (`brew install planck` if you don't already have it):
 
-`planck -c src`
+` $ planck -c src`
 
 ## Load
 
