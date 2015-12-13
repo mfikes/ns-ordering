@@ -41,7 +41,7 @@ Set up Nashorn by starting `lein repl` and then these three forms.
 Use Planck (`brew install planck` if you don't already have it).
 
 ```
-planck -s src -v
+planck -c src -v
 ```
 
 ## Load
