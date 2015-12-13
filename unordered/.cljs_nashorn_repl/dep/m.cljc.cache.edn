@@ -1,2 +1,0 @@
-;; Analyzed by ClojureScript 1.7.170
-{:name dep.m, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses nil, :requires nil, :imports nil, :defs {m {:name dep.m/m, :file "/Users/mfikes/Projects/ns-ordering/unordered/src/dep/m.cljc", :line 3, :column 1, :end-line 3, :end-column 7, :meta {:file "/Users/mfikes/Projects/ns-ordering/unordered/src/dep/m.cljc", :line 3, :column 6, :end-line 3, :end-column 7}}}}
